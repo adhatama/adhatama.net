@@ -5,10 +5,28 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Adhatama</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apapun</title>
+      <link>/categories/apapun/</link>
+      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/apapun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cerpen</title>
+      <link>/categories/cerpen/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cerpen/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
