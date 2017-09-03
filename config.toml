@@ -1,4 +1,4 @@
-baseurl = "adhatama.com/" # Must end with /
+baseurl = "/" # Must end with /
 languageCode = "en-us"
 title = "Adhatama"
 theme = "introduction"
