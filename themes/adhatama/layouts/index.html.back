@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta name="generator" content="Hugo 0.30.2" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -9,24 +8,14 @@
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
-    
+    <!-- CSS Reset -->
     <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
 
-    
+    <!-- Milligram CSS minified -->
     <link rel="stylesheet" href="//cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css">
 
-    
-    <link rel="stylesheet" href="css/main.css">
-
-    <style type="text/css">
-        body {
-            font-family: 'Montserrat', sans-serif;
-        }
-
-        .color-3 {
-            background-color: #7ECEFD;
-        }
-    </style>
+    <!-- You should properly set the path from the main file. -->
+    <link rel="stylesheet" href="{{ .Site.Params.BaseUrl }}css/main.css">
 </head>
 <body>
     <div class="container">
@@ -37,6 +26,18 @@
         </div>
 
         <div class="row" style="margin-top: 50px"></div>
+
+        {{ range first 100 .Data.Pages }}
+            <div class="row" style="text-align: center">
+                <div class="column">
+                    <article>
+                        <div>
+                            <h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        {{ end }}
     </div>
 </body>
 </html>

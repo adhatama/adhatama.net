@@ -16,6 +16,16 @@
 
     <!-- You should properly set the path from the main file. -->
     <link rel="stylesheet" href="{{ .Site.Params.BaseUrl }}css/main.css">
+
+    <style type="text/css">
+        body {
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        .color-3 {
+            background-color: #7ECEFD;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -26,18 +36,6 @@
         </div>
 
         <div class="row" style="margin-top: 50px"></div>
-
-        {{ range first 100 .Data.Pages }}
-            <div class="row" style="text-align: center">
-                <div class="column">
-                    <article>
-                        <div>
-                            <h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
-                        </div>
-                    </article>
-                </div>
-            </div>
-        {{ end }}
     </div>
 </body>
 </html>
