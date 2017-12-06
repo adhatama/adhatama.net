@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Adhatama</title>
+    <link>/categories/about/</link>
+    <description>Recent content in About on Adhatama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.
+I currently focus on Web Programming using Go and Vue. Previously, I mostly did programming in PHP Laravel or Groovy Grails for my last company&amp;rsquo;s clients.
+I think I can understand programming better and can do more things if I learn Go, so I decided to stick with it.
+I am working on my ability to test my code too, because I believe that every serious project had better have automated test.</description>
+    </item>
+    
+  </channel>
+</rss>
