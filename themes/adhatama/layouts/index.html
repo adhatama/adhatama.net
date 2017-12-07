@@ -23,11 +23,6 @@
 
         <div class="m-t-lg"></div>
 
-        <a href="{{ with .Site.GetPage "page" "about/index.md" }}{{ .Permalink }}{{ end }}" class="m-r-md">
-          <span class="icon">
-            <i class="fa fa-2x fa-hand-peace-o"></i>
-          </span>
-        </a>
         <a href="http://github.com/adhatama" class="m-r-md" target="_blank">
           <span class="icon">
             <i class="fa fa-2x fa-github"></i>
@@ -48,6 +43,15 @@
             <i class="fa fa-2x fa-twitter"></i>
           </span>
         </a>
+      </div>
+    </div>
+
+    <div class="columns is-centered">
+      <div class="column is-half">
+          <div class="content p-md">
+            <h1>{{ .Title }}</h1>
+            <p>{{ .Content }}</p>
+          </div>
       </div>
     </div>
   </body>
