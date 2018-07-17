@@ -9,10 +9,10 @@ Jujur aja, aku ndak tau mau nulis apa untuk memenuhi komitmen minggu ini. Biar n
 
 Credit:
 Terjemahan awal: Bahasa Jepang ke Inggris oleh Risa (L’Arc-en-Ciel UK Street Team)
-Terjemahan dari Bahasa Inggris ke Indonesia oleh Vie (L’arc~en~Ciel Indonesia Facebook Group’s member)
-<br> 
-####Chapter 1: Ability
-<br>
+Terjemahan dari Bahasa Inggris ke Indonesia oleh Vie (L’arc~en~Ciel Indonesia Facebook Group’s member) 
+
+#### Chapter 1: Ability
+
 Aku mengagumi orang-orang jenius. Ada saat-saat dimana aku berpikir bahwa aku tak punya bakat sebagai musisi, dan aku bermain gitar dengan membabi buta sampai membuat senarnya putus, atau berteriak di tengah malam karena stres tak menemukan melodi yang kuciptakan dalam kepalaku. Kejadian-kejadian itu selalu muncul selama masa-masa mengarang lagu – aku tak tahu apakah ada saat-saat dimana aku merasa menikmati masa-masa itu. Dalam kurun waktu yang terbatas itu, aku merasa stres, bingung sendiri, mengantuk, iri terhadap bakat orang lain, dan mengulangi siklus hapus-dan-tambah detail untuk lagu-lagu yang kubuat, seperti patung tanah liat yang belum jadi. Aku butuh lebih banyak waktu dibanding pencipta lagu lainnya. Aku mengaransemen ulang, lagi dan lagi, menghabiskan berminggu-minggu untuk itu, dan akhirnya menemukan melodi yang kucari di dalam benakku. Laguku menjadi utuh. Aku menjadi pendengar pertama laguku sendiri. Dan ketika kupikir lagu itu sangat indah, aku berpikir bahwa diriku sedikit jenius.
 
 Pada umumnya, aku merasa menciptakan sesuatu yang baru adalah menambah atau menggabungkan hal-hal yang berbeda. Misalnya, kamu tentu tidak berpikir untuk menggabungkan cumi-cumi dan TV kan? (LOL). Tapi kenyataannya, hal itu mengarahkan ke terciptanya LCD (catatan: liquid crystal dalam LCD dibuat dari kolesterol cumi-cumi). Seperti itu, aku pikir penambahan banyak hal bisa menjadikan sesuatu yang baru. Biasanya orang akan melihat banyak hal dan tidak memikirkannya. Tapi kalau aku harus menyebutkan bakatku, kurasa aku bagus dalam memperhatikan dan menggabungkan.

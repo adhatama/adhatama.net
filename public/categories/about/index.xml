@@ -16,22 +16,16 @@
       <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/</guid>
-      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.
-I currently focus on Web Programming using Go and Vue. Previously, I mostly did programming in PHP Laravel or Groovy Grails for my last company&amp;rsquo;s clients.
-I think I can understand programming better and can do more things if I learn Go, so I decided to stick with it.
-I am working on my ability to test my code too, because I believe that every serious project had better have automated test.</description>
+      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.</description>
     </item>
     
     <item>
       <title>About Me</title>
       <link>/about/</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.
-I currently focus on Web Programming using Go and Vue. Previously, I mostly did programming in PHP Laravel or Groovy Grails for my last company&amp;rsquo;s clients.
-I think I can understand programming better and can do more things if I learn Go, so I decided to stick with it.
-I am working on my ability to test my code too, because I believe that every serious project had better have automated test.</description>
+      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.</description>
     </item>
     
   </channel>

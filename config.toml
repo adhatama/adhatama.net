@@ -1,3 +1,6 @@
 baseurl = "/" # Must end with /
 title = "Adhatama"
 theme = "adhatama"
+
+[blackfriday]
+extensions = ["hardLineBreak"]

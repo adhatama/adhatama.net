@@ -1,1 +1,22 @@
-{{ .Content }}
+<!DOCTYPE html>
+<html>
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body>
+    {{ partial "header.html" . }}
+
+    <div class="container" style="margin-top: 30px; margin-bottom: 50px;">
+        <div class="columns is-mobile is-centered">
+            <div class="column is-7 content" style="font-weight: 100">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    {{ partial "footer.html" . }}
+</body>
+
+</html>
