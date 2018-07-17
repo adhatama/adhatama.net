@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on Adhatama</title>
+    <title>Adhatama</title>
     <link>/</link>
-    <description>Recent content in About Me on Adhatama</description>
+    <description>Recent content on Adhatama</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hari Minggu Akhir Bulan. Kalender Istiqomah, Restart!</title>
-      <link>/2015/05/31/hari-minggu-akhir-bulan/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2015/05/31/hari-minggu-akhir-bulan/</guid>
-      <description>Besok memang cocok sekali untuk mengikat janji. Tanggal 1.
-Sejak aku memulai kalender istiqomah beberapa bulan yang lalu, aku semakin yakin bahwa konsisten wajib dilakukan untuk mencapai segala sesuatu.
-Aku ingin memulainya lagi.
- Geb
-Start: 1 Juni 2015
-Deadline: 1 Juli 2015
-Minutes per Day: 25 minutes
-Task:
- Mendalami Geb Write lesson learned nya
-  Lust
-Start: 1 Juni 2015
-Deadline: ???
-Task: ???
-Minutes per Day: ?</description>
+      <guid>/about/</guid>
+      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.</description>
     </item>
     
     <item>
@@ -38,7 +25,10 @@ Minutes per Day: ?</description>
       <pubDate>Sun, 24 May 2015 00:00:00 +0000</pubDate>
       
       <guid>/2015/05/24/pelajaran-dari-proposal-daisakusen/</guid>
-      <description>Proposal Daisakusen adalah dorama pertama yang sampai sekarang begitu spesial memorinya bagiku. Dorama itu yang bikin aku jadi gila dorama. Aku masih ingat sekali waktu itu jam 1 pagi dan masih terus maraton sampai tamat. Persetan dengan kuliah jam 6:30. Aku masih ingat sekali perasaan harapan bercampur gregetan akibat si payah Yamapi yang ndak action-action yang bikin si Nagasawa Masami keburu merid sama si guru malang itu. Iya malang, karena pada akhirnya dengan tear-fucking-jerking speech nya Yamapi di pernikahan Masami bikin Masami melarikan diri dari pernikahannya lalu berlari mengejar si kampret Yamapi.</description>
+      <description>Proposal Daisakusen adalah dorama pertama yang sampai sekarang begitu spesial memorinya bagiku. Dorama itu yang bikin aku jadi gila dorama.
+Aku masih ingat sekali waktu itu jam 1 pagi dan masih terus maraton sampai tamat. Persetan dengan kuliah jam 6:30.
+Aku masih ingat sekali perasaan harapan bercampur gregetan akibat si payah Yamapi yang ndak action-action yang bikin si Nagasawa Masami keburu merid sama si guru malang itu.
+Iya malang, karena pada akhirnya dengan tear-fucking-jerking speech nya Yamapi di pernikahan Masami bikin Masami melarikan diri dari pernikahannya lalu berlari mengejar si kampret Yamapi.</description>
     </item>
     
     <item>
@@ -102,7 +92,8 @@ Aku terpaksa melayaninnya lagi kali ini karena secangkir kopi robusta spesial ya
       <guid>/2014/11/01/kosan-paryadi-satu/</guid>
       <description>Berikut adalah kesaksian Paryadi Sumarno yang akrab disapa Adi.
 Lelaki paruh baya yang tinggal disebuah kosan barunya.
-Dalam hiruk pikuk malam minggu yang penuh kebahagiaan bagi banyak pasangan ini, Adi malah curhat tentang kegelisahannya tentang cinta.
+Dalam hiruk pikuk malam minggu yang penuh kebahagiaan bagi banyak pasangan ini,
+Adi malah curhat tentang kegelisahannya tentang cinta.
 &amp;ldquo;Jatuh cinta tidak pernah membahagiakan?&amp;rdquo;, tanyaku.
 &amp;ldquo;Tidak pernah sekalipun terjadi pada hidupku, Tam.
 Rasa takut cintaku tidak diterima begitu menggelisahkan.
@@ -131,7 +122,13 @@ aku melihat muka kucing itu.. seperti meringis marah, badannya menggeliat ditemp
       <pubDate>Sun, 16 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>/2013/06/16/nico-koi-wo-shiyou-indonesia/</guid>
-      <description>Ini salah satu lagu Nico yang udah tak repeat 748x. Kemarin iseng-iseng nyari terjemahannya yang English, eh ternyata lucu liriknya. Romantis-romantis konyol gitu kesannya. Trus iseng lagi deh sekarang bikin terjemahan indonesianya.  Koi Wo Shiyou Yuk Kita Jatuh Cinta hai sayang, lagi ngapain?
+      <description>Ini salah satu lagu Nico yang udah tak repeat 748x.
+Kemarin iseng-iseng nyari terjemahannya yang English, eh ternyata lucu liriknya. Romantis-romantis konyol gitu kesannya.
+Trus iseng lagi deh sekarang bikin terjemahan indonesianya.
+
+Koi Wo Shiyou
+Yuk Kita Jatuh Cinta
+hai sayang, lagi ngapain?
 aku mikir apa aku harus buat 5 cangkir kopi ndak
 aku ndak suka ketika jatuh dalam kegalauan
 dan aku malah tiba-tiba jadi tertarik nonton film boring ini</description>
@@ -144,7 +141,10 @@ dan aku malah tiba-tiba jadi tertarik nonton film boring ini</description>
       
       <guid>/2013/06/14/hyde-chapter-1-ability/</guid>
       <description>Jujur aja, aku ndak tau mau nulis apa untuk memenuhi komitmen minggu ini. Biar ndak malu sama diri sendiri, mendingan aku ngeshare autobiografinya Hyde Laruku aja deh.
-Credit: Terjemahan awal: Bahasa Jepang ke Inggris oleh Risa (L’Arc-en-Ciel UK Street Team) Terjemahan dari Bahasa Inggris ke Indonesia oleh Vie (L’arc~en~Ciel Indonesia Facebook Group’s member) ####Chapter 1: Ability Aku mengagumi orang-orang jenius. Ada saat-saat dimana aku berpikir bahwa aku tak punya bakat sebagai musisi, dan aku bermain gitar dengan membabi buta sampai membuat senarnya putus, atau berteriak di tengah malam karena stres tak menemukan melodi yang kuciptakan dalam kepalaku.</description>
+Credit:
+Terjemahan awal: Bahasa Jepang ke Inggris oleh Risa (L’Arc-en-Ciel UK Street Team)
+Terjemahan dari Bahasa Inggris ke Indonesia oleh Vie (L’arc~en~Ciel Indonesia Facebook Group’s member)
+Chapter 1: Ability Aku mengagumi orang-orang jenius. Ada saat-saat dimana aku berpikir bahwa aku tak punya bakat sebagai musisi, dan aku bermain gitar dengan membabi buta sampai membuat senarnya putus, atau berteriak di tengah malam karena stres tak menemukan melodi yang kuciptakan dalam kepalaku.</description>
     </item>
     
     <item>
@@ -154,15 +154,6 @@ Credit: Terjemahan awal: Bahasa Jepang ke Inggris oleh Risa (L’Arc-en-Ciel UK 
       
       <guid>/2013/06/13/nunggu-apa-lagi/</guid>
       <description>Bagi kalian-kalian yang masih ragu untuk mengikuti hasrat terdalam yang ada dalam dirimu. Kalian takut? sama aku juga. Tapi aku mencoba tetep nglakukannya. Dan siapa yang tahu kalau memang kita ditakdirkan untuk melakukan sesuatu yang kita amat senangi itu? Kalau kita tidak membuktikannya sendiri. Sudah berkali-kali aku nyerah. Yang jelas, terlalu cepet nyerah. Tapi kali ini moga-moga aja ndak. Daripada aku hidup melakukan apa yang orang lain katakan kepadaku, bukan hatiku dan tak kusukai kemudian mati, tentu saja lebih baik hidup full enjoy dan melakukan apa yang kusuka.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>My name is A.M. Adhatama, from Yogyakarta, Indonesia.</description>
     </item>
     
   </channel>
