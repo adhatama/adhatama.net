@@ -12,7 +12,7 @@
         <div class="columns is-centered">
             <div class="column is-narrow" style="margin: 10px">
                 {{ range where .Data.Pages "Section" "post" }}
-                    <p><a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a></p>
+                    <p><span class="tag">{{.Date.Format "Jan 2006"}}</span> <a href="{{.Permalink}}">{{.Title}}</a></p>
                 {{ end }}
             </div>
         </div>
