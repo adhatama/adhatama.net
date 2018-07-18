@@ -9,8 +9,8 @@
     {{ partial "header.html" . }}
 
     <div class="container" style="margin-top: 30px; margin-bottom: 50px;">
-        <div class="columns is-mobile is-centered">
-            <div class="column is-narrow">
+        <div class="columns is-centered">
+            <div class="column is-narrow" style="margin: 10px">
                 {{ range where .Data.Pages "Section" "post" }}
                     <p><a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a></p>
                 {{ end }}
